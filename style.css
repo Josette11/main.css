@@ -1,5 +1,5 @@
 body {
-    background-color: rebeccapurple;
+    background-color: Deep Violet;
     background-image: linear-gradient(90deg, rgb(255, 255, 255), #d42e36);
 }
 
@@ -8,5 +8,5 @@ body {
     height: 30px;
     background-color: white;
     border-radius: 20px;
-    border-color: rebeccapurple;
+    border-color: deep violet;
 }
